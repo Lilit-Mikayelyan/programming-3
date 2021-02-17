@@ -1,8 +1,7 @@
-class Grass {
+class LivingCreature {
     constructor(x, y) {
         this.x = x;
         this.y = y;
-        this.life = 0;
         this.directions = [
             [this.x - 1, this.y - 1],
             [this.x, this.y - 1],
@@ -29,6 +28,15 @@ class Grass {
 
         return arr;
     }
+
+}
+
+class Grass extends LivingCreature {
+    constructor(x, y) {
+        super(x, y);
+        this.life = 0;
+    }
+
     mul() {
         this.life++;
         let newCell = random(this.chooseCell(0));
@@ -45,38 +53,16 @@ class Grass {
 
 
 
-class GrassEater {
+class GrassEater extends LivingCreature {
     constructor(x, y) {
-        this.x = x;
-        this.y = y;
+        super(x, y);
         this.energy = 30;
-        this.directions = [
-            [this.x - 1, this.y - 1],
-            [this.x, this.y - 1],
-            [this.x + 1, this.y - 1],
-            [this.x - 1, this.y],
-            [this.x + 1, this.y],
-            [this.x - 1, this.y + 1],
-            [this.x, this.y + 1],
-            [this.x + 1, this.y + 1]
-        ];
+
     }
     chooseCell(char) {
-        let arr = [];
+        this.getNewDirections();
+        return super.chooseCell(char);
 
-        for (let index = 0; index < this.directions.length; index++) {
-            let x = this.directions[index][0];
-            let y = this.directions[index][1];
-
-            if (x >= 0 && y >= 0 && x < matrix[0].length && y < matrix.length) {
-                if (matrix[y][x] == char) {
-                    arr.push(this.directions[index])
-                }
-            }
-
-        }
-
-        return arr;
     }
     getNewDirections() {
         this.directions = [
@@ -158,39 +144,18 @@ class GrassEater {
 
 
 
-class Predator {
+class Predator extends LivingCreature {
     constructor(x, y) {
-        this.x = x;
-        this.y = y;
+        super(x, y);
         this.energy = 30;
-        this.directions = [
-            [this.x - 1, this.y - 1],
-            [this.x, this.y - 1],
-            [this.x + 1, this.y - 1],
-            [this.x - 1, this.y],
-            [this.x + 1, this.y],
-            [this.x - 1, this.y + 1],
-            [this.x, this.y + 1],
-            [this.x + 1, this.y + 1]
-        ];
+
     }
     chooseCell(char) {
-        let arr = [];
+        this.getNewDirections;
+        return super.chooseCell(char);
 
-        for (let index = 0; index < this.directions.length; index++) {
-            let x = this.directions[index][0];
-            let y = this.directions[index][1];
-
-            if (x >= 0 && y >= 0 && x < matrix[0].length && y < matrix.length) {
-                if (matrix[y][x] == char) {
-                    arr.push(this.directions[index])
-                }
-            }
-
-        }
-
-        return arr;
     }
+
     getNewDirections() {
         this.directions = [
             [this.x - 1, this.y - 1],
@@ -270,38 +235,12 @@ class Predator {
 
 
 
-class Water {
+class Water extends LivingCreature {
     constructor(x, y) {
-        this.x = x;
-        this.y = y;
+        super(x, y);
         this.life = 0;
-        this.directions = [
-            [this.x - 1, this.y - 1],
-            [this.x, this.y - 1],
-            [this.x + 1, this.y - 1],
-            [this.x - 1, this.y],
-            [this.x + 1, this.y],
-            [this.x - 1, this.y + 1],
-            [this.x, this.y + 1],
-            [this.x + 1, this.y + 1]
-        ];
     }
-    chooseCell(char) {
-        let arr = [];
 
-        for (let index = 0; index < this.directions.length; index++) {
-            let x = this.directions[index][0];
-            let y = this.directions[index][1];
-            if (x >= 0 && y >= 0 && x < matrix[0].length && y < matrix.length) {
-                if (matrix[y][x] == char) {
-                    arr.push(this.directions[index])
-                }
-            }
-        }
-
-        return arr;
-    }
-    
     mul() {
         this.life++;
         let newCell = random(this.chooseCell(0).concat(this.chooseCell(1).concat(this.chooseCell(6))));
@@ -339,38 +278,16 @@ class Water {
 
 
 
-class Hunter {
+class Hunter extends LivingCreature {
     constructor(x, y) {
-        this.x = x;
-        this.y = y;
+        super(x, y);
         this.energy = 30;
-        this.directions = [
-            [this.x - 1, this.y - 1],
-            [this.x, this.y - 1],
-            [this.x + 1, this.y - 1],
-            [this.x - 1, this.y],
-            [this.x + 1, this.y],
-            [this.x - 1, this.y + 1],
-            [this.x, this.y + 1],
-            [this.x + 1, this.y + 1]
-        ];
+
     }
     chooseCell(char) {
-        let arr = [];
+        this.getNewDirections;
+        return super.chooseCell(char);
 
-        for (let index = 0; index < this.directions.length; index++) {
-            let x = this.directions[index][0];
-            let y = this.directions[index][1];
-
-            if (x >= 0 && y >= 0 && x < matrix[0].length && y < matrix.length) {
-                if (matrix[y][x] == char) {
-                    arr.push(this.directions[index])
-                }
-            }
-
-        }
-
-        return arr;
     }
     getNewDirections() {
         this.directions = [
@@ -450,48 +367,18 @@ class Hunter {
 }
 
 
-
-
-
-
-
-
-
-
-
-class Flower {
+class Flower extends LivingCreature {
     constructor(x, y) {
-        this.x = x;
-        this.y = y;
+        super(x, y);
         this.energy = 30;
-        this.directions = [
-            [this.x - 1, this.y - 1],
-            [this.x, this.y - 1],
-            [this.x + 1, this.y - 1],
-            [this.x - 1, this.y],
-            [this.x + 1, this.y],
-            [this.x - 1, this.y + 1],
-            [this.x, this.y + 1],
-            [this.x + 1, this.y + 1]
-        ];
+
     }
     chooseCell(char) {
-        let arr = [];
+        this.getNewDirections;
+        return super.chooseCell(char);
 
-        for (let index = 0; index < this.directions.length; index++) {
-            let x = this.directions[index][0];
-            let y = this.directions[index][1];
-
-            if (x >= 0 && y >= 0 && x < matrix[0].length && y < matrix.length) {
-                if (matrix[y][x] == char) {
-                    arr.push(this.directions[index])
-                }
-            }
-
-        }
-
-        return arr;
     }
+
     getNewDirections() {
         this.directions = [
             [this.x - 1, this.y - 1],
@@ -518,7 +405,7 @@ class Flower {
     move() {
         this.energy--;
         let newCell = random(this.chooseCell(1));
-            if (newCell) {
+        if (newCell) {
             let x = newCell[0];
             let y = newCell[1];
             matrix[y][x] = 6;
