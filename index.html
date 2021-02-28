@@ -1,26 +1,84 @@
 <html>
-    <head>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <style>
+
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
         canvas {
             display: block;
             margin: 0 auto;
         }
+
         div {
             display: inline-block;
         }
+
         h1 {
             padding: 20px;
             text-align: center;
         }
+
         body {
             font-family: 'Noto Sans', sans-serif !important;
         }
     </style>
-    </head>
+</head>
+
 <body>
+    <h1>Ծրագրավորում III Երևան</h1>
+    <h1>Լիլիթ Միքայելյան</h1>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+
+            </tr>
+            <tr>
+
+            </tr>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Գույն</th>
+                <th scope="col">Նկարագրություն</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td scope="row" style="background-color:green;"></td>
+                <td>Կանաչը խոտն է, որը բազմանում է N ցիկլը մեկ,մահանում է երբ նրան ուտում է խոտակերը, կամ նրան կոխկրտում
+                    է գիշատիչը, կամ ծածկում է ջուրը։</td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td scope="row" style="background-color:yellow;"></td>
+                <td>Դեղինը խոտակերն է, որը բազմանում է N հատ խոտ ուտելուց հետո և մահանում է N հատ չուտելուց հետո, կամ
+                    երբ նրան ուտում է գիշատիչը:</td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td scope="row" style="background-color:black;"></td>
+                <td>Սևը որսորդն է, որն ուտում է գիշատիչներին, մահանում է N հատ չուտելուց հետո;</td>
+            </tr>
+            <tr>
+                <th scope="row">4</th>
+                <td scope="row" style="background-color:lightblue;"></td>
+                <td>Կապույտը ջուրն է, որը բազմանում է N ցիկլը մեկ, տարածվում է խոտի վրայով:</td>
+            </tr>
+            <tr>
+                <th scope="row">5</th>
+                <td scope="row" style="background-color:pink;"></td>
+                <td>Վարդագույնը ծաղիկն է, որը շարժվում է միայն խոտի վրայով, որին ուտում է խոտակերը կամ ծածկում է ջուրը:
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <button onclick="lavaClick()">Lava</button>
+    <script src="node_modules/socket.io/client-dist/socket.io.js"></script>
+    <!-- <script src="/socket.io/socket.io.js"></script> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
-    <script src="class.js"></script>
     <script src="script.js"></script>
+    <br>
+    <br>
 </body>
+
 </html>

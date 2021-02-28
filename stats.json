@@ -1,0 +1,5942 @@
+[
+    {
+        "grassCount": 1209,
+        "grassEaterCount": 93,
+        "predatorCount": 57,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 1
+    },
+    {
+        "grassCount": 1149,
+        "grassEaterCount": 92,
+        "predatorCount": 56,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 1
+    },
+    {
+        "grassCount": 1092,
+        "grassEaterCount": 91,
+        "predatorCount": 56,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 1
+    },
+    {
+        "grassCount": 1039,
+        "grassEaterCount": 85,
+        "predatorCount": 54,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 1
+    },
+    {
+        "grassCount": 994,
+        "grassEaterCount": 84,
+        "predatorCount": 53,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 1
+    },
+    {
+        "grassCount": 952,
+        "grassEaterCount": 81,
+        "predatorCount": 48,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 61,
+        "lavaCount": 1
+    },
+    {
+        "grassCount": 914,
+        "grassEaterCount": 86,
+        "predatorCount": 46,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 1
+    },
+    {
+        "grassCount": 882,
+        "grassEaterCount": 92,
+        "predatorCount": 46,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 2
+    },
+    {
+        "grassCount": 850,
+        "grassEaterCount": 87,
+        "predatorCount": 47,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 4
+    },
+    {
+        "grassCount": 827,
+        "grassEaterCount": 83,
+        "predatorCount": 47,
+        "waterCount": 2,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 8
+    },
+    {
+        "grassCount": 1613,
+        "grassEaterCount": 85,
+        "predatorCount": 46,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 61,
+        "lavaCount": 12
+    },
+    {
+        "grassCount": 1569,
+        "grassEaterCount": 82,
+        "predatorCount": 43,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 18
+    },
+    {
+        "grassCount": 1530,
+        "grassEaterCount": 84,
+        "predatorCount": 43,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 26
+    },
+    {
+        "grassCount": 1486,
+        "grassEaterCount": 88,
+        "predatorCount": 43,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 36
+    },
+    {
+        "grassCount": 1445,
+        "grassEaterCount": 85,
+        "predatorCount": 44,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 47
+    },
+    {
+        "grassCount": 1407,
+        "grassEaterCount": 85,
+        "predatorCount": 43,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 60
+    },
+    {
+        "grassCount": 1372,
+        "grassEaterCount": 84,
+        "predatorCount": 42,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 76
+    },
+    {
+        "grassCount": 1334,
+        "grassEaterCount": 81,
+        "predatorCount": 41,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 92
+    },
+    {
+        "grassCount": 1294,
+        "grassEaterCount": 83,
+        "predatorCount": 41,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 111
+    },
+    {
+        "grassCount": 1257,
+        "grassEaterCount": 87,
+        "predatorCount": 41,
+        "waterCount": 4,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 133
+    },
+    {
+        "grassCount": 1822,
+        "grassEaterCount": 91,
+        "predatorCount": 38,
+        "waterCount": 6,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 133
+    },
+    {
+        "grassCount": 2290,
+        "grassEaterCount": 99,
+        "predatorCount": 36,
+        "waterCount": 8,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 133
+    },
+    {
+        "grassCount": 2224,
+        "grassEaterCount": 103,
+        "predatorCount": 35,
+        "waterCount": 8,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 156
+    },
+    {
+        "grassCount": 2154,
+        "grassEaterCount": 102,
+        "predatorCount": 34,
+        "waterCount": 8,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 156
+    },
+    {
+        "grassCount": 2088,
+        "grassEaterCount": 101,
+        "predatorCount": 34,
+        "waterCount": 8,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 180
+    },
+    {
+        "grassCount": 2024,
+        "grassEaterCount": 103,
+        "predatorCount": 33,
+        "waterCount": 8,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 207
+    },
+    {
+        "grassCount": 1957,
+        "grassEaterCount": 110,
+        "predatorCount": 32,
+        "waterCount": 8,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 235
+    },
+    {
+        "grassCount": 1886,
+        "grassEaterCount": 115,
+        "predatorCount": 31,
+        "waterCount": 8,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 265
+    },
+    {
+        "grassCount": 1811,
+        "grassEaterCount": 125,
+        "predatorCount": 31,
+        "waterCount": 8,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 294
+    },
+    {
+        "grassCount": 1740,
+        "grassEaterCount": 127,
+        "predatorCount": 31,
+        "waterCount": 8,
+        "flowerCount": 20,
+        "hunterCount": 60,
+        "lavaCount": 326
+    },
+    {
+        "grassCount": 2047,
+        "grassEaterCount": 125,
+        "predatorCount": 27,
+        "waterCount": 10,
+        "flowerCount": 20,
+        "hunterCount": 38,
+        "lavaCount": 326
+    },
+    {
+        "grassCount": 2525,
+        "grassEaterCount": 129,
+        "predatorCount": 23,
+        "waterCount": 14,
+        "flowerCount": 20,
+        "hunterCount": 29,
+        "lavaCount": 326
+    },
+    {
+        "grassCount": 2602,
+        "grassEaterCount": 134,
+        "predatorCount": 22,
+        "waterCount": 16,
+        "flowerCount": 20,
+        "hunterCount": 24,
+        "lavaCount": 326
+    },
+    {
+        "grassCount": 2514,
+        "grassEaterCount": 148,
+        "predatorCount": 20,
+        "waterCount": 16,
+        "flowerCount": 20,
+        "hunterCount": 24,
+        "lavaCount": 326
+    },
+    {
+        "grassCount": 2422,
+        "grassEaterCount": 158,
+        "predatorCount": 19,
+        "waterCount": 16,
+        "flowerCount": 20,
+        "hunterCount": 24,
+        "lavaCount": 326
+    },
+    {
+        "grassCount": 2332,
+        "grassEaterCount": 157,
+        "predatorCount": 19,
+        "waterCount": 16,
+        "flowerCount": 20,
+        "hunterCount": 24,
+        "lavaCount": 365
+    },
+    {
+        "grassCount": 2242,
+        "grassEaterCount": 163,
+        "predatorCount": 19,
+        "waterCount": 16,
+        "flowerCount": 20,
+        "hunterCount": 24,
+        "lavaCount": 402
+    },
+    {
+        "grassCount": 2151,
+        "grassEaterCount": 166,
+        "predatorCount": 18,
+        "waterCount": 16,
+        "flowerCount": 20,
+        "hunterCount": 24,
+        "lavaCount": 441
+    },
+    {
+        "grassCount": 2052,
+        "grassEaterCount": 168,
+        "predatorCount": 18,
+        "waterCount": 16,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 478
+    },
+    {
+        "grassCount": 1946,
+        "grassEaterCount": 181,
+        "predatorCount": 18,
+        "waterCount": 16,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 521
+    },
+    {
+        "grassCount": 2042,
+        "grassEaterCount": 186,
+        "predatorCount": 18,
+        "waterCount": 18,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 564
+    },
+    {
+        "grassCount": 2284,
+        "grassEaterCount": 195,
+        "predatorCount": 17,
+        "waterCount": 24,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 610
+    },
+    {
+        "grassCount": 2367,
+        "grassEaterCount": 206,
+        "predatorCount": 17,
+        "waterCount": 30,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 2302,
+        "grassEaterCount": 211,
+        "predatorCount": 17,
+        "waterCount": 32,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 2188,
+        "grassEaterCount": 217,
+        "predatorCount": 17,
+        "waterCount": 32,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 2064,
+        "grassEaterCount": 230,
+        "predatorCount": 17,
+        "waterCount": 32,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1942,
+        "grassEaterCount": 237,
+        "predatorCount": 16,
+        "waterCount": 32,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1825,
+        "grassEaterCount": 249,
+        "predatorCount": 16,
+        "waterCount": 32,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1701,
+        "grassEaterCount": 258,
+        "predatorCount": 17,
+        "waterCount": 32,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1580,
+        "grassEaterCount": 267,
+        "predatorCount": 16,
+        "waterCount": 32,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1540,
+        "grassEaterCount": 270,
+        "predatorCount": 16,
+        "waterCount": 34,
+        "flowerCount": 20,
+        "hunterCount": 23,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1602,
+        "grassEaterCount": 277,
+        "predatorCount": 16,
+        "waterCount": 42,
+        "flowerCount": 20,
+        "hunterCount": 19,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1618,
+        "grassEaterCount": 287,
+        "predatorCount": 13,
+        "waterCount": 51,
+        "flowerCount": 20,
+        "hunterCount": 15,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1550,
+        "grassEaterCount": 289,
+        "predatorCount": 11,
+        "waterCount": 56,
+        "flowerCount": 20,
+        "hunterCount": 9,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1458,
+        "grassEaterCount": 289,
+        "predatorCount": 13,
+        "waterCount": 57,
+        "flowerCount": 20,
+        "hunterCount": 8,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1351,
+        "grassEaterCount": 291,
+        "predatorCount": 11,
+        "waterCount": 57,
+        "flowerCount": 20,
+        "hunterCount": 7,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1239,
+        "grassEaterCount": 292,
+        "predatorCount": 12,
+        "waterCount": 57,
+        "flowerCount": 20,
+        "hunterCount": 7,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1122,
+        "grassEaterCount": 298,
+        "predatorCount": 11,
+        "waterCount": 57,
+        "flowerCount": 20,
+        "hunterCount": 7,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1023,
+        "grassEaterCount": 310,
+        "predatorCount": 12,
+        "waterCount": 57,
+        "flowerCount": 20,
+        "hunterCount": 7,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 929,
+        "grassEaterCount": 311,
+        "predatorCount": 12,
+        "waterCount": 57,
+        "flowerCount": 20,
+        "hunterCount": 7,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 860,
+        "grassEaterCount": 309,
+        "predatorCount": 12,
+        "waterCount": 59,
+        "flowerCount": 20,
+        "hunterCount": 7,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 842,
+        "grassEaterCount": 315,
+        "predatorCount": 12,
+        "waterCount": 68,
+        "flowerCount": 20,
+        "hunterCount": 7,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 823,
+        "grassEaterCount": 319,
+        "predatorCount": 11,
+        "waterCount": 84,
+        "flowerCount": 20,
+        "hunterCount": 7,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 779,
+        "grassEaterCount": 315,
+        "predatorCount": 12,
+        "waterCount": 91,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 713,
+        "grassEaterCount": 326,
+        "predatorCount": 12,
+        "waterCount": 92,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 634,
+        "grassEaterCount": 328,
+        "predatorCount": 11,
+        "waterCount": 92,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 560,
+        "grassEaterCount": 326,
+        "predatorCount": 13,
+        "waterCount": 92,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 495,
+        "grassEaterCount": 326,
+        "predatorCount": 12,
+        "waterCount": 92,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 435,
+        "grassEaterCount": 324,
+        "predatorCount": 13,
+        "waterCount": 92,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 383,
+        "grassEaterCount": 323,
+        "predatorCount": 13,
+        "waterCount": 92,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 337,
+        "grassEaterCount": 320,
+        "predatorCount": 12,
+        "waterCount": 93,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 324,
+        "grassEaterCount": 307,
+        "predatorCount": 14,
+        "waterCount": 102,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 316,
+        "grassEaterCount": 300,
+        "predatorCount": 13,
+        "waterCount": 118,
+        "flowerCount": 20,
+        "hunterCount": 6,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 319,
+        "grassEaterCount": 299,
+        "predatorCount": 13,
+        "waterCount": 129,
+        "flowerCount": 20,
+        "hunterCount": 4,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 310,
+        "grassEaterCount": 291,
+        "predatorCount": 14,
+        "waterCount": 132,
+        "flowerCount": 20,
+        "hunterCount": 2,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 300,
+        "grassEaterCount": 285,
+        "predatorCount": 14,
+        "waterCount": 133,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 288,
+        "grassEaterCount": 279,
+        "predatorCount": 13,
+        "waterCount": 133,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 283,
+        "grassEaterCount": 272,
+        "predatorCount": 13,
+        "waterCount": 133,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 278,
+        "grassEaterCount": 266,
+        "predatorCount": 13,
+        "waterCount": 133,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 269,
+        "grassEaterCount": 264,
+        "predatorCount": 13,
+        "waterCount": 133,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 267,
+        "grassEaterCount": 257,
+        "predatorCount": 14,
+        "waterCount": 134,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 271,
+        "grassEaterCount": 250,
+        "predatorCount": 14,
+        "waterCount": 144,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 277,
+        "grassEaterCount": 245,
+        "predatorCount": 14,
+        "waterCount": 164,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 287,
+        "grassEaterCount": 239,
+        "predatorCount": 15,
+        "waterCount": 178,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 296,
+        "grassEaterCount": 229,
+        "predatorCount": 14,
+        "waterCount": 183,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 298,
+        "grassEaterCount": 224,
+        "predatorCount": 16,
+        "waterCount": 184,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 293,
+        "grassEaterCount": 219,
+        "predatorCount": 15,
+        "waterCount": 184,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 285,
+        "grassEaterCount": 213,
+        "predatorCount": 15,
+        "waterCount": 184,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 277,
+        "grassEaterCount": 210,
+        "predatorCount": 15,
+        "waterCount": 184,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 272,
+        "grassEaterCount": 207,
+        "predatorCount": 16,
+        "waterCount": 184,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 270,
+        "grassEaterCount": 195,
+        "predatorCount": 16,
+        "waterCount": 185,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 274,
+        "grassEaterCount": 190,
+        "predatorCount": 17,
+        "waterCount": 195,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 276,
+        "grassEaterCount": 186,
+        "predatorCount": 16,
+        "waterCount": 220,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 284,
+        "grassEaterCount": 179,
+        "predatorCount": 16,
+        "waterCount": 238,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 294,
+        "grassEaterCount": 171,
+        "predatorCount": 17,
+        "waterCount": 248,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 301,
+        "grassEaterCount": 159,
+        "predatorCount": 15,
+        "waterCount": 249,
+        "flowerCount": 20,
+        "hunterCount": 1,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 301,
+        "grassEaterCount": 155,
+        "predatorCount": 16,
+        "waterCount": 249,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 296,
+        "grassEaterCount": 149,
+        "predatorCount": 15,
+        "waterCount": 249,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 290,
+        "grassEaterCount": 145,
+        "predatorCount": 15,
+        "waterCount": 249,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 288,
+        "grassEaterCount": 137,
+        "predatorCount": 15,
+        "waterCount": 249,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 291,
+        "grassEaterCount": 128,
+        "predatorCount": 17,
+        "waterCount": 250,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 300,
+        "grassEaterCount": 117,
+        "predatorCount": 16,
+        "waterCount": 261,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 309,
+        "grassEaterCount": 111,
+        "predatorCount": 15,
+        "waterCount": 290,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 317,
+        "grassEaterCount": 103,
+        "predatorCount": 17,
+        "waterCount": 311,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 327,
+        "grassEaterCount": 100,
+        "predatorCount": 15,
+        "waterCount": 320,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 343,
+        "grassEaterCount": 96,
+        "predatorCount": 15,
+        "waterCount": 321,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 357,
+        "grassEaterCount": 87,
+        "predatorCount": 15,
+        "waterCount": 321,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 365,
+        "grassEaterCount": 82,
+        "predatorCount": 15,
+        "waterCount": 321,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 370,
+        "grassEaterCount": 77,
+        "predatorCount": 15,
+        "waterCount": 321,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 375,
+        "grassEaterCount": 74,
+        "predatorCount": 15,
+        "waterCount": 321,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 376,
+        "grassEaterCount": 73,
+        "predatorCount": 15,
+        "waterCount": 322,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 381,
+        "grassEaterCount": 67,
+        "predatorCount": 15,
+        "waterCount": 333,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 389,
+        "grassEaterCount": 63,
+        "predatorCount": 16,
+        "waterCount": 364,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 398,
+        "grassEaterCount": 62,
+        "predatorCount": 15,
+        "waterCount": 390,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 406,
+        "grassEaterCount": 60,
+        "predatorCount": 15,
+        "waterCount": 400,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 415,
+        "grassEaterCount": 56,
+        "predatorCount": 15,
+        "waterCount": 402,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 433,
+        "grassEaterCount": 55,
+        "predatorCount": 15,
+        "waterCount": 403,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 441,
+        "grassEaterCount": 55,
+        "predatorCount": 14,
+        "waterCount": 403,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 443,
+        "grassEaterCount": 51,
+        "predatorCount": 13,
+        "waterCount": 403,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 446,
+        "grassEaterCount": 46,
+        "predatorCount": 13,
+        "waterCount": 403,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 453,
+        "grassEaterCount": 43,
+        "predatorCount": 13,
+        "waterCount": 404,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 463,
+        "grassEaterCount": 43,
+        "predatorCount": 13,
+        "waterCount": 415,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 471,
+        "grassEaterCount": 42,
+        "predatorCount": 13,
+        "waterCount": 447,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 479,
+        "grassEaterCount": 38,
+        "predatorCount": 13,
+        "waterCount": 478,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 481,
+        "grassEaterCount": 35,
+        "predatorCount": 13,
+        "waterCount": 490,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 495,
+        "grassEaterCount": 34,
+        "predatorCount": 13,
+        "waterCount": 492,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 510,
+        "grassEaterCount": 33,
+        "predatorCount": 13,
+        "waterCount": 494,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 525,
+        "grassEaterCount": 31,
+        "predatorCount": 13,
+        "waterCount": 494,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 527,
+        "grassEaterCount": 31,
+        "predatorCount": 13,
+        "waterCount": 494,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 529,
+        "grassEaterCount": 30,
+        "predatorCount": 13,
+        "waterCount": 494,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 538,
+        "grassEaterCount": 31,
+        "predatorCount": 13,
+        "waterCount": 495,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 549,
+        "grassEaterCount": 33,
+        "predatorCount": 13,
+        "waterCount": 506,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 558,
+        "grassEaterCount": 32,
+        "predatorCount": 13,
+        "waterCount": 538,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 568,
+        "grassEaterCount": 31,
+        "predatorCount": 13,
+        "waterCount": 575,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 579,
+        "grassEaterCount": 29,
+        "predatorCount": 13,
+        "waterCount": 584,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 588,
+        "grassEaterCount": 30,
+        "predatorCount": 12,
+        "waterCount": 587,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 606,
+        "grassEaterCount": 28,
+        "predatorCount": 11,
+        "waterCount": 589,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 627,
+        "grassEaterCount": 27,
+        "predatorCount": 10,
+        "waterCount": 589,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 641,
+        "grassEaterCount": 27,
+        "predatorCount": 10,
+        "waterCount": 589,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 652,
+        "grassEaterCount": 27,
+        "predatorCount": 10,
+        "waterCount": 589,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 664,
+        "grassEaterCount": 27,
+        "predatorCount": 10,
+        "waterCount": 590,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 677,
+        "grassEaterCount": 26,
+        "predatorCount": 10,
+        "waterCount": 600,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 691,
+        "grassEaterCount": 25,
+        "predatorCount": 9,
+        "waterCount": 634,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 704,
+        "grassEaterCount": 25,
+        "predatorCount": 9,
+        "waterCount": 674,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 720,
+        "grassEaterCount": 25,
+        "predatorCount": 9,
+        "waterCount": 689,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 732,
+        "grassEaterCount": 26,
+        "predatorCount": 9,
+        "waterCount": 692,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 755,
+        "grassEaterCount": 27,
+        "predatorCount": 8,
+        "waterCount": 695,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 781,
+        "grassEaterCount": 27,
+        "predatorCount": 8,
+        "waterCount": 695,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 795,
+        "grassEaterCount": 26,
+        "predatorCount": 8,
+        "waterCount": 695,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 811,
+        "grassEaterCount": 26,
+        "predatorCount": 8,
+        "waterCount": 695,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 821,
+        "grassEaterCount": 27,
+        "predatorCount": 8,
+        "waterCount": 696,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 824,
+        "grassEaterCount": 28,
+        "predatorCount": 6,
+        "waterCount": 706,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 830,
+        "grassEaterCount": 26,
+        "predatorCount": 6,
+        "waterCount": 742,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 845,
+        "grassEaterCount": 26,
+        "predatorCount": 6,
+        "waterCount": 786,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 862,
+        "grassEaterCount": 26,
+        "predatorCount": 5,
+        "waterCount": 806,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 875,
+        "grassEaterCount": 26,
+        "predatorCount": 5,
+        "waterCount": 812,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 902,
+        "grassEaterCount": 26,
+        "predatorCount": 4,
+        "waterCount": 815,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 927,
+        "grassEaterCount": 26,
+        "predatorCount": 4,
+        "waterCount": 816,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 940,
+        "grassEaterCount": 27,
+        "predatorCount": 4,
+        "waterCount": 816,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 954,
+        "grassEaterCount": 27,
+        "predatorCount": 4,
+        "waterCount": 816,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 968,
+        "grassEaterCount": 28,
+        "predatorCount": 4,
+        "waterCount": 817,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 975,
+        "grassEaterCount": 27,
+        "predatorCount": 4,
+        "waterCount": 828,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 987,
+        "grassEaterCount": 27,
+        "predatorCount": 4,
+        "waterCount": 867,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1007,
+        "grassEaterCount": 26,
+        "predatorCount": 4,
+        "waterCount": 915,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1029,
+        "grassEaterCount": 26,
+        "predatorCount": 4,
+        "waterCount": 938,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1046,
+        "grassEaterCount": 26,
+        "predatorCount": 4,
+        "waterCount": 944,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1070,
+        "grassEaterCount": 26,
+        "predatorCount": 4,
+        "waterCount": 946,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1095,
+        "grassEaterCount": 27,
+        "predatorCount": 4,
+        "waterCount": 948,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1108,
+        "grassEaterCount": 26,
+        "predatorCount": 4,
+        "waterCount": 948,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1118,
+        "grassEaterCount": 25,
+        "predatorCount": 4,
+        "waterCount": 948,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1117,
+        "grassEaterCount": 25,
+        "predatorCount": 4,
+        "waterCount": 949,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1135,
+        "grassEaterCount": 25,
+        "predatorCount": 4,
+        "waterCount": 960,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1149,
+        "grassEaterCount": 27,
+        "predatorCount": 3,
+        "waterCount": 999,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1168,
+        "grassEaterCount": 28,
+        "predatorCount": 3,
+        "waterCount": 1049,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1179,
+        "grassEaterCount": 29,
+        "predatorCount": 2,
+        "waterCount": 1078,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1182,
+        "grassEaterCount": 28,
+        "predatorCount": 2,
+        "waterCount": 1086,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1198,
+        "grassEaterCount": 29,
+        "predatorCount": 2,
+        "waterCount": 1088,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1199,
+        "grassEaterCount": 30,
+        "predatorCount": 2,
+        "waterCount": 1090,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1210,
+        "grassEaterCount": 31,
+        "predatorCount": 2,
+        "waterCount": 1090,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1210,
+        "grassEaterCount": 29,
+        "predatorCount": 2,
+        "waterCount": 1090,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1219,
+        "grassEaterCount": 31,
+        "predatorCount": 2,
+        "waterCount": 1091,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1230,
+        "grassEaterCount": 31,
+        "predatorCount": 2,
+        "waterCount": 1102,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1248,
+        "grassEaterCount": 32,
+        "predatorCount": 2,
+        "waterCount": 1143,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1263,
+        "grassEaterCount": 32,
+        "predatorCount": 2,
+        "waterCount": 1194,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1276,
+        "grassEaterCount": 32,
+        "predatorCount": 2,
+        "waterCount": 1226,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1294,
+        "grassEaterCount": 32,
+        "predatorCount": 2,
+        "waterCount": 1232,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1298,
+        "grassEaterCount": 34,
+        "predatorCount": 2,
+        "waterCount": 1234,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1308,
+        "grassEaterCount": 36,
+        "predatorCount": 2,
+        "waterCount": 1237,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1314,
+        "grassEaterCount": 35,
+        "predatorCount": 2,
+        "waterCount": 1237,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1313,
+        "grassEaterCount": 35,
+        "predatorCount": 2,
+        "waterCount": 1237,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1317,
+        "grassEaterCount": 36,
+        "predatorCount": 2,
+        "waterCount": 1238,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1318,
+        "grassEaterCount": 38,
+        "predatorCount": 2,
+        "waterCount": 1249,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1320,
+        "grassEaterCount": 38,
+        "predatorCount": 2,
+        "waterCount": 1291,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1326,
+        "grassEaterCount": 39,
+        "predatorCount": 2,
+        "waterCount": 1344,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1332,
+        "grassEaterCount": 40,
+        "predatorCount": 2,
+        "waterCount": 1379,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1351,
+        "grassEaterCount": 39,
+        "predatorCount": 2,
+        "waterCount": 1389,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1353,
+        "grassEaterCount": 40,
+        "predatorCount": 2,
+        "waterCount": 1393,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1351,
+        "grassEaterCount": 42,
+        "predatorCount": 2,
+        "waterCount": 1396,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1347,
+        "grassEaterCount": 42,
+        "predatorCount": 2,
+        "waterCount": 1396,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1344,
+        "grassEaterCount": 43,
+        "predatorCount": 2,
+        "waterCount": 1396,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1346,
+        "grassEaterCount": 44,
+        "predatorCount": 2,
+        "waterCount": 1397,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1349,
+        "grassEaterCount": 44,
+        "predatorCount": 2,
+        "waterCount": 1406,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1361,
+        "grassEaterCount": 43,
+        "predatorCount": 2,
+        "waterCount": 1448,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1364,
+        "grassEaterCount": 45,
+        "predatorCount": 2,
+        "waterCount": 1504,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1352,
+        "grassEaterCount": 47,
+        "predatorCount": 2,
+        "waterCount": 1545,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1354,
+        "grassEaterCount": 48,
+        "predatorCount": 2,
+        "waterCount": 1556,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1346,
+        "grassEaterCount": 52,
+        "predatorCount": 2,
+        "waterCount": 1559,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1338,
+        "grassEaterCount": 51,
+        "predatorCount": 2,
+        "waterCount": 1564,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1330,
+        "grassEaterCount": 54,
+        "predatorCount": 2,
+        "waterCount": 1566,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1331,
+        "grassEaterCount": 54,
+        "predatorCount": 2,
+        "waterCount": 1566,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1337,
+        "grassEaterCount": 53,
+        "predatorCount": 2,
+        "waterCount": 1567,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1346,
+        "grassEaterCount": 53,
+        "predatorCount": 2,
+        "waterCount": 1577,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1363,
+        "grassEaterCount": 54,
+        "predatorCount": 2,
+        "waterCount": 1620,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1370,
+        "grassEaterCount": 55,
+        "predatorCount": 2,
+        "waterCount": 1677,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1374,
+        "grassEaterCount": 55,
+        "predatorCount": 2,
+        "waterCount": 1725,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1381,
+        "grassEaterCount": 55,
+        "predatorCount": 2,
+        "waterCount": 1739,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1379,
+        "grassEaterCount": 55,
+        "predatorCount": 2,
+        "waterCount": 1741,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1382,
+        "grassEaterCount": 55,
+        "predatorCount": 2,
+        "waterCount": 1745,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1385,
+        "grassEaterCount": 54,
+        "predatorCount": 2,
+        "waterCount": 1746,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1391,
+        "grassEaterCount": 54,
+        "predatorCount": 1,
+        "waterCount": 1746,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1401,
+        "grassEaterCount": 53,
+        "predatorCount": 2,
+        "waterCount": 1747,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1411,
+        "grassEaterCount": 52,
+        "predatorCount": 1,
+        "waterCount": 1756,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1435,
+        "grassEaterCount": 52,
+        "predatorCount": 1,
+        "waterCount": 1798,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1457,
+        "grassEaterCount": 53,
+        "predatorCount": 1,
+        "waterCount": 1856,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1472,
+        "grassEaterCount": 51,
+        "predatorCount": 1,
+        "waterCount": 1903,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1477,
+        "grassEaterCount": 50,
+        "predatorCount": 1,
+        "waterCount": 1921,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1481,
+        "grassEaterCount": 51,
+        "predatorCount": 1,
+        "waterCount": 1925,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1490,
+        "grassEaterCount": 50,
+        "predatorCount": 1,
+        "waterCount": 1929,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1490,
+        "grassEaterCount": 49,
+        "predatorCount": 1,
+        "waterCount": 1931,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1504,
+        "grassEaterCount": 50,
+        "predatorCount": 1,
+        "waterCount": 1931,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1512,
+        "grassEaterCount": 50,
+        "predatorCount": 1,
+        "waterCount": 1932,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1522,
+        "grassEaterCount": 50,
+        "predatorCount": 1,
+        "waterCount": 1941,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1548,
+        "grassEaterCount": 50,
+        "predatorCount": 1,
+        "waterCount": 1984,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1575,
+        "grassEaterCount": 49,
+        "predatorCount": 1,
+        "waterCount": 2045,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1589,
+        "grassEaterCount": 48,
+        "predatorCount": 1,
+        "waterCount": 2097,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1596,
+        "grassEaterCount": 46,
+        "predatorCount": 1,
+        "waterCount": 2121,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1600,
+        "grassEaterCount": 46,
+        "predatorCount": 1,
+        "waterCount": 2125,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1608,
+        "grassEaterCount": 47,
+        "predatorCount": 1,
+        "waterCount": 2131,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1619,
+        "grassEaterCount": 46,
+        "predatorCount": 1,
+        "waterCount": 2133,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1633,
+        "grassEaterCount": 45,
+        "predatorCount": 1,
+        "waterCount": 2133,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1637,
+        "grassEaterCount": 43,
+        "predatorCount": 1,
+        "waterCount": 2134,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1648,
+        "grassEaterCount": 43,
+        "predatorCount": 1,
+        "waterCount": 2142,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1674,
+        "grassEaterCount": 42,
+        "predatorCount": 1,
+        "waterCount": 2187,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1697,
+        "grassEaterCount": 44,
+        "predatorCount": 1,
+        "waterCount": 2250,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1705,
+        "grassEaterCount": 42,
+        "predatorCount": 1,
+        "waterCount": 2303,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1708,
+        "grassEaterCount": 41,
+        "predatorCount": 1,
+        "waterCount": 2325,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1717,
+        "grassEaterCount": 41,
+        "predatorCount": 1,
+        "waterCount": 2329,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1721,
+        "grassEaterCount": 41,
+        "predatorCount": 1,
+        "waterCount": 2334,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1717,
+        "grassEaterCount": 42,
+        "predatorCount": 1,
+        "waterCount": 2337,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1707,
+        "grassEaterCount": 45,
+        "predatorCount": 1,
+        "waterCount": 2337,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1712,
+        "grassEaterCount": 44,
+        "predatorCount": 1,
+        "waterCount": 2338,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1695,
+        "grassEaterCount": 46,
+        "predatorCount": 1,
+        "waterCount": 2346,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1706,
+        "grassEaterCount": 48,
+        "predatorCount": 1,
+        "waterCount": 2393,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1707,
+        "grassEaterCount": 47,
+        "predatorCount": 1,
+        "waterCount": 2458,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1699,
+        "grassEaterCount": 48,
+        "predatorCount": 1,
+        "waterCount": 2515,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1676,
+        "grassEaterCount": 51,
+        "predatorCount": 1,
+        "waterCount": 2537,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1661,
+        "grassEaterCount": 53,
+        "predatorCount": 1,
+        "waterCount": 2543,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1641,
+        "grassEaterCount": 53,
+        "predatorCount": 1,
+        "waterCount": 2549,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1622,
+        "grassEaterCount": 55,
+        "predatorCount": 1,
+        "waterCount": 2554,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1616,
+        "grassEaterCount": 54,
+        "predatorCount": 1,
+        "waterCount": 2554,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1602,
+        "grassEaterCount": 58,
+        "predatorCount": 1,
+        "waterCount": 2555,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1584,
+        "grassEaterCount": 60,
+        "predatorCount": 1,
+        "waterCount": 2563,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1580,
+        "grassEaterCount": 61,
+        "predatorCount": 1,
+        "waterCount": 2604,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1585,
+        "grassEaterCount": 60,
+        "predatorCount": 1,
+        "waterCount": 2673,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1577,
+        "grassEaterCount": 61,
+        "predatorCount": 1,
+        "waterCount": 2734,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1571,
+        "grassEaterCount": 61,
+        "predatorCount": 1,
+        "waterCount": 2757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1559,
+        "grassEaterCount": 63,
+        "predatorCount": 1,
+        "waterCount": 2761,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1547,
+        "grassEaterCount": 66,
+        "predatorCount": 1,
+        "waterCount": 2765,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1537,
+        "grassEaterCount": 69,
+        "predatorCount": 1,
+        "waterCount": 2770,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1533,
+        "grassEaterCount": 68,
+        "predatorCount": 1,
+        "waterCount": 2770,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1520,
+        "grassEaterCount": 68,
+        "predatorCount": 1,
+        "waterCount": 2771,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1503,
+        "grassEaterCount": 70,
+        "predatorCount": 1,
+        "waterCount": 2778,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1494,
+        "grassEaterCount": 71,
+        "predatorCount": 0,
+        "waterCount": 2816,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1485,
+        "grassEaterCount": 73,
+        "predatorCount": 0,
+        "waterCount": 2880,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1487,
+        "grassEaterCount": 70,
+        "predatorCount": 0,
+        "waterCount": 2940,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1486,
+        "grassEaterCount": 72,
+        "predatorCount": 0,
+        "waterCount": 2963,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1473,
+        "grassEaterCount": 70,
+        "predatorCount": 0,
+        "waterCount": 2973,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1466,
+        "grassEaterCount": 72,
+        "predatorCount": 0,
+        "waterCount": 2977,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1467,
+        "grassEaterCount": 72,
+        "predatorCount": 0,
+        "waterCount": 2983,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1463,
+        "grassEaterCount": 72,
+        "predatorCount": 0,
+        "waterCount": 2983,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1455,
+        "grassEaterCount": 74,
+        "predatorCount": 0,
+        "waterCount": 2984,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1453,
+        "grassEaterCount": 75,
+        "predatorCount": 0,
+        "waterCount": 2991,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1446,
+        "grassEaterCount": 74,
+        "predatorCount": 0,
+        "waterCount": 3023,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1437,
+        "grassEaterCount": 74,
+        "predatorCount": 0,
+        "waterCount": 3083,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1434,
+        "grassEaterCount": 74,
+        "predatorCount": 0,
+        "waterCount": 3143,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1427,
+        "grassEaterCount": 75,
+        "predatorCount": 0,
+        "waterCount": 3171,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1422,
+        "grassEaterCount": 73,
+        "predatorCount": 0,
+        "waterCount": 3181,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1413,
+        "grassEaterCount": 71,
+        "predatorCount": 0,
+        "waterCount": 3185,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1408,
+        "grassEaterCount": 70,
+        "predatorCount": 0,
+        "waterCount": 3192,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1405,
+        "grassEaterCount": 72,
+        "predatorCount": 0,
+        "waterCount": 3192,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1405,
+        "grassEaterCount": 74,
+        "predatorCount": 0,
+        "waterCount": 3193,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1399,
+        "grassEaterCount": 72,
+        "predatorCount": 0,
+        "waterCount": 3199,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1398,
+        "grassEaterCount": 73,
+        "predatorCount": 0,
+        "waterCount": 3231,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1399,
+        "grassEaterCount": 71,
+        "predatorCount": 0,
+        "waterCount": 3286,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1400,
+        "grassEaterCount": 71,
+        "predatorCount": 0,
+        "waterCount": 3343,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1390,
+        "grassEaterCount": 71,
+        "predatorCount": 0,
+        "waterCount": 3377,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1378,
+        "grassEaterCount": 74,
+        "predatorCount": 0,
+        "waterCount": 3390,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1369,
+        "grassEaterCount": 72,
+        "predatorCount": 0,
+        "waterCount": 3394,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1358,
+        "grassEaterCount": 72,
+        "predatorCount": 0,
+        "waterCount": 3403,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1356,
+        "grassEaterCount": 68,
+        "predatorCount": 0,
+        "waterCount": 3403,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1353,
+        "grassEaterCount": 68,
+        "predatorCount": 0,
+        "waterCount": 3404,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1351,
+        "grassEaterCount": 69,
+        "predatorCount": 0,
+        "waterCount": 3410,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1351,
+        "grassEaterCount": 69,
+        "predatorCount": 0,
+        "waterCount": 3442,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1349,
+        "grassEaterCount": 69,
+        "predatorCount": 0,
+        "waterCount": 3502,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1345,
+        "grassEaterCount": 67,
+        "predatorCount": 0,
+        "waterCount": 3557,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1343,
+        "grassEaterCount": 65,
+        "predatorCount": 0,
+        "waterCount": 3585,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1335,
+        "grassEaterCount": 67,
+        "predatorCount": 0,
+        "waterCount": 3605,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1332,
+        "grassEaterCount": 66,
+        "predatorCount": 0,
+        "waterCount": 3609,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1319,
+        "grassEaterCount": 64,
+        "predatorCount": 0,
+        "waterCount": 3617,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1312,
+        "grassEaterCount": 65,
+        "predatorCount": 0,
+        "waterCount": 3620,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1305,
+        "grassEaterCount": 64,
+        "predatorCount": 0,
+        "waterCount": 3621,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1301,
+        "grassEaterCount": 65,
+        "predatorCount": 0,
+        "waterCount": 3627,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1300,
+        "grassEaterCount": 66,
+        "predatorCount": 0,
+        "waterCount": 3658,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1294,
+        "grassEaterCount": 65,
+        "predatorCount": 0,
+        "waterCount": 3719,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1284,
+        "grassEaterCount": 65,
+        "predatorCount": 0,
+        "waterCount": 3773,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1273,
+        "grassEaterCount": 66,
+        "predatorCount": 0,
+        "waterCount": 3803,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1263,
+        "grassEaterCount": 67,
+        "predatorCount": 0,
+        "waterCount": 3823,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1252,
+        "grassEaterCount": 65,
+        "predatorCount": 0,
+        "waterCount": 3827,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1251,
+        "grassEaterCount": 64,
+        "predatorCount": 0,
+        "waterCount": 3835,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1249,
+        "grassEaterCount": 63,
+        "predatorCount": 0,
+        "waterCount": 3838,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1242,
+        "grassEaterCount": 61,
+        "predatorCount": 0,
+        "waterCount": 3839,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1235,
+        "grassEaterCount": 62,
+        "predatorCount": 0,
+        "waterCount": 3845,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1233,
+        "grassEaterCount": 61,
+        "predatorCount": 0,
+        "waterCount": 3876,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1229,
+        "grassEaterCount": 58,
+        "predatorCount": 0,
+        "waterCount": 3932,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1228,
+        "grassEaterCount": 58,
+        "predatorCount": 0,
+        "waterCount": 3986,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1227,
+        "grassEaterCount": 58,
+        "predatorCount": 0,
+        "waterCount": 4014,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1222,
+        "grassEaterCount": 58,
+        "predatorCount": 0,
+        "waterCount": 4035,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1214,
+        "grassEaterCount": 58,
+        "predatorCount": 0,
+        "waterCount": 4040,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1203,
+        "grassEaterCount": 57,
+        "predatorCount": 0,
+        "waterCount": 4048,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1201,
+        "grassEaterCount": 56,
+        "predatorCount": 0,
+        "waterCount": 4051,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1194,
+        "grassEaterCount": 56,
+        "predatorCount": 0,
+        "waterCount": 4052,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1196,
+        "grassEaterCount": 56,
+        "predatorCount": 0,
+        "waterCount": 4057,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1198,
+        "grassEaterCount": 53,
+        "predatorCount": 0,
+        "waterCount": 4087,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1199,
+        "grassEaterCount": 52,
+        "predatorCount": 0,
+        "waterCount": 4141,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1199,
+        "grassEaterCount": 53,
+        "predatorCount": 0,
+        "waterCount": 4189,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1196,
+        "grassEaterCount": 51,
+        "predatorCount": 0,
+        "waterCount": 4216,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1197,
+        "grassEaterCount": 49,
+        "predatorCount": 0,
+        "waterCount": 4235,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1195,
+        "grassEaterCount": 47,
+        "predatorCount": 0,
+        "waterCount": 4238,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1198,
+        "grassEaterCount": 45,
+        "predatorCount": 0,
+        "waterCount": 4242,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1195,
+        "grassEaterCount": 45,
+        "predatorCount": 0,
+        "waterCount": 4244,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1199,
+        "grassEaterCount": 42,
+        "predatorCount": 0,
+        "waterCount": 4245,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1202,
+        "grassEaterCount": 42,
+        "predatorCount": 0,
+        "waterCount": 4249,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1205,
+        "grassEaterCount": 42,
+        "predatorCount": 0,
+        "waterCount": 4272,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1204,
+        "grassEaterCount": 42,
+        "predatorCount": 0,
+        "waterCount": 4317,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1205,
+        "grassEaterCount": 41,
+        "predatorCount": 0,
+        "waterCount": 4359,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1206,
+        "grassEaterCount": 39,
+        "predatorCount": 0,
+        "waterCount": 4388,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1207,
+        "grassEaterCount": 39,
+        "predatorCount": 0,
+        "waterCount": 4401,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1209,
+        "grassEaterCount": 37,
+        "predatorCount": 0,
+        "waterCount": 4406,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1211,
+        "grassEaterCount": 36,
+        "predatorCount": 0,
+        "waterCount": 4411,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1214,
+        "grassEaterCount": 36,
+        "predatorCount": 0,
+        "waterCount": 4412,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1214,
+        "grassEaterCount": 36,
+        "predatorCount": 0,
+        "waterCount": 4413,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1217,
+        "grassEaterCount": 34,
+        "predatorCount": 0,
+        "waterCount": 4417,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1216,
+        "grassEaterCount": 34,
+        "predatorCount": 0,
+        "waterCount": 4437,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1216,
+        "grassEaterCount": 34,
+        "predatorCount": 0,
+        "waterCount": 4479,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1216,
+        "grassEaterCount": 32,
+        "predatorCount": 0,
+        "waterCount": 4516,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1217,
+        "grassEaterCount": 31,
+        "predatorCount": 0,
+        "waterCount": 4547,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1216,
+        "grassEaterCount": 31,
+        "predatorCount": 0,
+        "waterCount": 4561,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1216,
+        "grassEaterCount": 31,
+        "predatorCount": 0,
+        "waterCount": 4566,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1215,
+        "grassEaterCount": 31,
+        "predatorCount": 0,
+        "waterCount": 4568,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1214,
+        "grassEaterCount": 32,
+        "predatorCount": 0,
+        "waterCount": 4570,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1215,
+        "grassEaterCount": 31,
+        "predatorCount": 0,
+        "waterCount": 4571,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1215,
+        "grassEaterCount": 31,
+        "predatorCount": 0,
+        "waterCount": 4575,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1217,
+        "grassEaterCount": 30,
+        "predatorCount": 0,
+        "waterCount": 4592,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1219,
+        "grassEaterCount": 28,
+        "predatorCount": 0,
+        "waterCount": 4634,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 25,
+        "predatorCount": 0,
+        "waterCount": 4665,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1220,
+        "grassEaterCount": 23,
+        "predatorCount": 0,
+        "waterCount": 4696,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 23,
+        "predatorCount": 0,
+        "waterCount": 4710,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1222,
+        "grassEaterCount": 23,
+        "predatorCount": 0,
+        "waterCount": 4717,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1222,
+        "grassEaterCount": 23,
+        "predatorCount": 0,
+        "waterCount": 4719,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1218,
+        "grassEaterCount": 23,
+        "predatorCount": 0,
+        "waterCount": 4719,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1218,
+        "grassEaterCount": 23,
+        "predatorCount": 0,
+        "waterCount": 4720,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1217,
+        "grassEaterCount": 21,
+        "predatorCount": 0,
+        "waterCount": 4724,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1215,
+        "grassEaterCount": 20,
+        "predatorCount": 0,
+        "waterCount": 4741,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1216,
+        "grassEaterCount": 20,
+        "predatorCount": 0,
+        "waterCount": 4778,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1217,
+        "grassEaterCount": 19,
+        "predatorCount": 0,
+        "waterCount": 4809,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1218,
+        "grassEaterCount": 18,
+        "predatorCount": 0,
+        "waterCount": 4838,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1220,
+        "grassEaterCount": 17,
+        "predatorCount": 0,
+        "waterCount": 4853,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 16,
+        "predatorCount": 0,
+        "waterCount": 4858,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 16,
+        "predatorCount": 0,
+        "waterCount": 4860,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 16,
+        "predatorCount": 0,
+        "waterCount": 4860,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1222,
+        "grassEaterCount": 16,
+        "predatorCount": 0,
+        "waterCount": 4861,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1223,
+        "grassEaterCount": 15,
+        "predatorCount": 0,
+        "waterCount": 4866,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1222,
+        "grassEaterCount": 14,
+        "predatorCount": 0,
+        "waterCount": 4881,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1224,
+        "grassEaterCount": 14,
+        "predatorCount": 0,
+        "waterCount": 4917,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1225,
+        "grassEaterCount": 12,
+        "predatorCount": 0,
+        "waterCount": 4952,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1226,
+        "grassEaterCount": 12,
+        "predatorCount": 0,
+        "waterCount": 4979,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1226,
+        "grassEaterCount": 13,
+        "predatorCount": 0,
+        "waterCount": 4992,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1227,
+        "grassEaterCount": 13,
+        "predatorCount": 0,
+        "waterCount": 4995,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1226,
+        "grassEaterCount": 13,
+        "predatorCount": 0,
+        "waterCount": 4997,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1226,
+        "grassEaterCount": 13,
+        "predatorCount": 0,
+        "waterCount": 4997,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1227,
+        "grassEaterCount": 13,
+        "predatorCount": 0,
+        "waterCount": 4998,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1229,
+        "grassEaterCount": 13,
+        "predatorCount": 0,
+        "waterCount": 5002,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1226,
+        "grassEaterCount": 14,
+        "predatorCount": 0,
+        "waterCount": 5016,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1223,
+        "grassEaterCount": 13,
+        "predatorCount": 0,
+        "waterCount": 5052,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1223,
+        "grassEaterCount": 13,
+        "predatorCount": 0,
+        "waterCount": 5083,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 12,
+        "predatorCount": 0,
+        "waterCount": 5107,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1219,
+        "grassEaterCount": 12,
+        "predatorCount": 0,
+        "waterCount": 5120,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1218,
+        "grassEaterCount": 12,
+        "predatorCount": 0,
+        "waterCount": 5122,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1216,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5122,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1214,
+        "grassEaterCount": 12,
+        "predatorCount": 0,
+        "waterCount": 5122,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1216,
+        "grassEaterCount": 12,
+        "predatorCount": 0,
+        "waterCount": 5123,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1217,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5128,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1218,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5143,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1220,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5179,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5207,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5227,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5236,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5237,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5237,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1221,
+        "grassEaterCount": 11,
+        "predatorCount": 0,
+        "waterCount": 5237,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1223,
+        "grassEaterCount": 10,
+        "predatorCount": 0,
+        "waterCount": 5239,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1224,
+        "grassEaterCount": 10,
+        "predatorCount": 0,
+        "waterCount": 5244,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1224,
+        "grassEaterCount": 10,
+        "predatorCount": 0,
+        "waterCount": 5259,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1224,
+        "grassEaterCount": 9,
+        "predatorCount": 0,
+        "waterCount": 5292,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1224,
+        "grassEaterCount": 9,
+        "predatorCount": 0,
+        "waterCount": 5316,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1224,
+        "grassEaterCount": 9,
+        "predatorCount": 0,
+        "waterCount": 5336,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1224,
+        "grassEaterCount": 9,
+        "predatorCount": 0,
+        "waterCount": 5345,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1225,
+        "grassEaterCount": 9,
+        "predatorCount": 0,
+        "waterCount": 5345,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1225,
+        "grassEaterCount": 9,
+        "predatorCount": 0,
+        "waterCount": 5345,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1224,
+        "grassEaterCount": 9,
+        "predatorCount": 0,
+        "waterCount": 5345,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1227,
+        "grassEaterCount": 9,
+        "predatorCount": 0,
+        "waterCount": 5346,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1227,
+        "grassEaterCount": 9,
+        "predatorCount": 0,
+        "waterCount": 5351,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1227,
+        "grassEaterCount": 8,
+        "predatorCount": 0,
+        "waterCount": 5366,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1227,
+        "grassEaterCount": 8,
+        "predatorCount": 0,
+        "waterCount": 5399,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1228,
+        "grassEaterCount": 8,
+        "predatorCount": 0,
+        "waterCount": 5423,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1228,
+        "grassEaterCount": 8,
+        "predatorCount": 0,
+        "waterCount": 5441,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1228,
+        "grassEaterCount": 8,
+        "predatorCount": 0,
+        "waterCount": 5449,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1229,
+        "grassEaterCount": 8,
+        "predatorCount": 0,
+        "waterCount": 5449,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1229,
+        "grassEaterCount": 7,
+        "predatorCount": 0,
+        "waterCount": 5449,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1229,
+        "grassEaterCount": 7,
+        "predatorCount": 0,
+        "waterCount": 5449,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1231,
+        "grassEaterCount": 7,
+        "predatorCount": 0,
+        "waterCount": 5450,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1230,
+        "grassEaterCount": 6,
+        "predatorCount": 0,
+        "waterCount": 5453,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1230,
+        "grassEaterCount": 6,
+        "predatorCount": 0,
+        "waterCount": 5461,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1231,
+        "grassEaterCount": 6,
+        "predatorCount": 0,
+        "waterCount": 5479,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1232,
+        "grassEaterCount": 6,
+        "predatorCount": 0,
+        "waterCount": 5500,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1232,
+        "grassEaterCount": 6,
+        "predatorCount": 0,
+        "waterCount": 5516,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1231,
+        "grassEaterCount": 6,
+        "predatorCount": 0,
+        "waterCount": 5524,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1232,
+        "grassEaterCount": 5,
+        "predatorCount": 0,
+        "waterCount": 5526,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1233,
+        "grassEaterCount": 5,
+        "predatorCount": 0,
+        "waterCount": 5526,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1233,
+        "grassEaterCount": 5,
+        "predatorCount": 0,
+        "waterCount": 5526,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1234,
+        "grassEaterCount": 4,
+        "predatorCount": 0,
+        "waterCount": 5528,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1234,
+        "grassEaterCount": 4,
+        "predatorCount": 0,
+        "waterCount": 5529,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1234,
+        "grassEaterCount": 3,
+        "predatorCount": 0,
+        "waterCount": 5534,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1234,
+        "grassEaterCount": 3,
+        "predatorCount": 0,
+        "waterCount": 5546,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1235,
+        "grassEaterCount": 3,
+        "predatorCount": 0,
+        "waterCount": 5564,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1235,
+        "grassEaterCount": 3,
+        "predatorCount": 0,
+        "waterCount": 5578,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1235,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5586,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1236,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5587,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1237,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5587,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1238,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5587,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1239,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5588,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1239,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5589,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1239,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5592,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1239,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5601,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1239,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5615,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1240,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5629,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1240,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5636,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1241,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5638,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1242,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5638,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1243,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5638,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1243,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5639,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1243,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5639,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1243,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5641,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1243,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5647,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1243,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5659,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1243,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5671,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1243,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5677,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1244,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5678,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5678,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5678,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5678,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5678,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5680,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 2,
+        "predatorCount": 0,
+        "waterCount": 5684,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 1,
+        "predatorCount": 0,
+        "waterCount": 5696,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 1,
+        "predatorCount": 0,
+        "waterCount": 5708,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 1,
+        "predatorCount": 0,
+        "waterCount": 5714,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5716,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5716,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5716,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5716,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5716,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5718,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5721,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5730,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5736,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5741,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5743,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5743,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5743,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5743,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5743,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5743,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5745,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5751,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5753,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5756,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    },
+    {
+        "grassCount": 1245,
+        "grassEaterCount": 0,
+        "predatorCount": 0,
+        "waterCount": 5757,
+        "flowerCount": 20,
+        "hunterCount": 0,
+        "lavaCount": 656
+    }
+]
