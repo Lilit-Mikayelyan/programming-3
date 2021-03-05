@@ -12,7 +12,7 @@ function setup() {
 
 function drawMatrix(data) {
     var matrix = data.matrix;
-
+    var weather = data.weather;
     console.log(matrix);
 
     for (let y = 0; y < matrix.length; y++) {
@@ -20,7 +20,12 @@ function drawMatrix(data) {
         for (let x = 0; x < element.length; x++) {
 
             if (matrix[y][x] == 1) {
-                fill('green')
+                if (weather == "summer") {
+                    fill("green")
+                } else {
+                    fill("white")
+                }
+                
             }
             else if (matrix[y][x] == 2) {
                 fill('yellow')

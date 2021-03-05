@@ -145,7 +145,6 @@ function start() {
 }
 
 function game() {
-
    for (let index = 0; index < grassArr.length; index++) {
       grassArr[index].mul();
    }
@@ -164,8 +163,6 @@ function game() {
    for (let index = 0; index < flowerArr.length; index++) {
       flowerArr[index].move();
    }
-
-
 
 
    var data = {
@@ -192,6 +189,17 @@ function saveStats() {
 
    stats.push(statsObject);
    fs.writeFileSync(fileName, JSON.stringify(stats, null, 4));
+}
+
+
+function weather() {
+   for (let counter = 1; counter > 0; counter++) {
+      if (counter % 4 < 5) {
+         weather = "summer";
+      } else {
+         weather = "winter";
+      }
+   }
 }
 
 start();
