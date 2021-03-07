@@ -13,7 +13,15 @@ function setup() {
 function drawMatrix(data) {
     var matrix = data.matrix;
     var weather = data.weather;
+    console.log(weather);
     console.log(matrix);
+    if (weather == "summer") {
+        
+        document.getElementById("weather1").innerHTML = "Ամառ է!";
+    } else {
+
+        document.getElementById("weather1").innerHTML = "Ձմեռ է!";
+    }
 
     for (let y = 0; y < matrix.length; y++) {
         const element = matrix[y];
@@ -34,7 +42,11 @@ function drawMatrix(data) {
                 fill('red')
             }
             else if (matrix[y][x] == 4) {
-                fill('lightblue')
+                if (weather == "summer") {
+                    fill('blue')
+                } else {
+                    fill('lightblue')
+                }
             }
             else if (matrix[y][x] == 5) {
                 fill('black')

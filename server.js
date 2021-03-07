@@ -64,6 +64,7 @@ random = function (arr) {
 }
 
 function start() {
+
    matrixGenerator(80, 1500, 100, 60, 2, 60, 20, 1);
 
    function matrixGenerator(matrixSize, grassCount, grassEaterCount, predatorCount, waterCount, hunterCount, flowerCount, lavaCount) {
@@ -144,7 +145,19 @@ function start() {
    }
 }
 
+var counter = 1;
+
+function updateWeather() {
+      if (counter % 10 < 5) {
+         weather = "summer";
+      } else {
+         weather = "winter";
+      }
+      counter++;
+}
+
 function game() {
+   updateWeather();
    for (let index = 0; index < grassArr.length; index++) {
       grassArr[index].mul();
    }
@@ -167,7 +180,7 @@ function game() {
 
    var data = {
       'matrix': matrix,
-      'weater': weather
+      'weather': weather
    };
 
    io.sockets.emit('matrixUpdate', data);
@@ -189,17 +202,6 @@ function saveStats() {
 
    stats.push(statsObject);
    fs.writeFileSync(fileName, JSON.stringify(stats, null, 4));
-}
-
-
-function weather() {
-   for (let counter = 1; counter > 0; counter++) {
-      if (counter % 4 < 5) {
-         weather = "summer";
-      } else {
-         weather = "winter";
-      }
-   }
 }
 
 start();
